@@ -1,2 +1,2 @@
-# Aprendedndo-Python
+# Aprendendo-Python
 Um repositório para guardar meus primeiros códigos
