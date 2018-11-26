@@ -1,0 +1,7 @@
+print('Oi tudo bom?')
+afirmacao = input()
+print('Qual e seu nome?')
+nome = input()
+print('e a sua idade?')
+idade = input()
+print('Bom te conhecer você,',nome,'com,',idade, 'anos')
